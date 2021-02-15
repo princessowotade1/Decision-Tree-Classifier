@@ -1,7 +1,7 @@
 # Decision-Tree-Classifier
 Decision Trees and Learning Curves
 
-# Some Key Details Regarding The Data
+## Some Key Details Regarding The Data
 
 Rooms: Number of rooms
 
