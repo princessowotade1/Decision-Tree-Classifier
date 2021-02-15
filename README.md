@@ -7,7 +7,7 @@ Rooms: Number of rooms
 
 Price: Price in Australian dollars
 
-Type: This is the column containing the dependent variable, aka, the category we are trying to predict
+Type: This is the column containing the dependent variable, aka, the category I am trying to predict
 
 h - house,cottage,villa, semi,terrace;
 u - unit, duplex;
